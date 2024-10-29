@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pocket Reporter</string>
+    <string name="default_web_client_id">935647715342-ikfg2q6r06s20lckr81e89vac2qp59mk.apps.googleusercontent.com</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
